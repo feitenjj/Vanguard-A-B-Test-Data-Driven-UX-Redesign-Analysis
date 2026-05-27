@@ -67,9 +67,9 @@ Users over 60 years showed slower progression and higher backtracking rates.
 
 🔹 Global Completion Rate
 
-Test: XX%
+Test: 64,4%
 
-Control: YY%
+Control: 51,7%
 
 Improvement: +Z percentage points
 ✅ Statistically significant (p < 0.05)
